@@ -3,4 +3,4 @@
 ATR-FAS is  an attack type robust face anti-spoofing framework under light flash. The architecture is as follows.
 ![fig2](https://github.com/Chaochao-Lin/ATR-FAS/blob/main/imgs/fig2.png)
 
-The code will be organized and uploaded later.
+The code will be reviewed and uploaded later.
